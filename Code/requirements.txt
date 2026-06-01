@@ -1,0 +1,20 @@
+# Lab 13 – REST API + PostGIS
+# Install with:  pip install -r requirements.txt
+
+# Web framework
+flask>=3.0
+
+# PostgreSQL driver (psycopg v3 — not psycopg2)
+# The [binary] extra bundles the C library; drop it if you build from source
+psycopg[binary]>=3.1
+
+# JWT tokens (Exercise 4 auth)
+pyjwt>=2.8
+
+# Data loading (seed_db.py reads the Excel file)
+pandas>=2.0
+openpyxl>=3.1
+
+# Notebook client
+requests>=2.31
+matplotlib>=3.8
