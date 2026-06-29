@@ -156,7 +156,7 @@ Open parasole_dashboard.ipynb in Jupyter Notebook.
 Run all cells.
 The "Backend check" cell confirms the connection by listing the cities and stations.
 
-How to use it
+## How to use it
 
 Select a city to see the station map (with a temperature heatmap) and the city-wide alert banner.
 Select a station to see its temperature, humidity, and precipitation charts, plus its heat-stress alerts.
