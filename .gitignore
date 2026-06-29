@@ -1,5 +1,9 @@
-./Code/MeteostatExamples
-./Code/parasole
-/__pycache__
-/.idea
-/Code/MS_config.py
+Code/MeteostatExamples
+Code/parasole
+Code/__pycache__
+Code/.idea
+Code/MS_config.py
+Code/.env
+__pycache__/
+*.pyc
+.DS_Store
